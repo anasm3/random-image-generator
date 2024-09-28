@@ -1,5 +1,5 @@
 # random-image-generator
-Random image generator with the help of API calling
+Random image generator with the help of API calling and simple Js
 
 Links:
 
